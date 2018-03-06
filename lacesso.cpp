@@ -2,6 +2,6 @@
 *
 *        Main source file         
 *
-*	     GNU GENERAL PUBLIC LICENSE v3
+*        GNU GENERAL PUBLIC LICENSE v3
 *
 */ 
